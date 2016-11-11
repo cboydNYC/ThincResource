@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1b91df7a-d6ef-45ce-a244-24c2685b1815" name="BDS (Dev)" url="http://thincers.boyddesignstudio.com">
+        <fileTransfer host="boyddesignstudio.com" port="21" rootFolder="/public_html/sub_domains/thincers">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7cb35d4e-1cf5-464a-a05d-cdf9756fd99c" name="Thincers (BDS)" url="http://thincers.boyddesignstudio.com">
+        <fileTransfer host="boyddesignstudio.com" port="21" rootFolder="/public_html/sub_domains/thincers">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
